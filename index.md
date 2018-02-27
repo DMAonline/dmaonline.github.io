@@ -1,37 +1,14 @@
 ## Welcome to DMAonline
 
-You can use the [editor on GitHub](https://github.com/DMAonline/DMAonline/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+DMAonline aims to provide a simple, easy to use dashboard highlighting all information relating to research data management and related fields.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+On this site expect to see development updates and posts on tools we are using or find interesting. You can also see some of the SaaS tools we are using and the companies we are thankful to for their support.
 
-### Markdown
+### SaaS Software Tools
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### BrowserStack
 
-```markdown
-Syntax highlighted code block
+![Browserstack Logo](https://p3.zdusercontent.com/attachment/1015988/ETRAOqHSFvnwEIlPLYn6vqbSR "BrowserStack")
 
-# Header 1
-## Header 2
-### Header 3
+BrowserStack provides us with automated selenium testing on desktop and mobile browsers as well as live browser testing on a variety of platforms allowing us to easily diagnose UI bugs and issues brought to our attention. Expect to see us using this more as we get used to the platform and integrate it into all our SPA Developments
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DMAonline/DMAonline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
