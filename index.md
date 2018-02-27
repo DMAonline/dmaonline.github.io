@@ -8,7 +8,7 @@ On this site expect to see development updates and posts on tools we are using o
 
 #### BrowserStack
 
-![Browserstack Logo](https://p3.zdusercontent.com/attachment/1015988/ETRAOqHSFvnwEIlPLYn6vqbSR "BrowserStack")
+[![Browserstack Logo](https://p3.zdusercontent.com/attachment/1015988/ETRAOqHSFvnwEIlPLYn6vqbSR)](https://browserstack.com)
 
 BrowserStack provides us with automated selenium testing on desktop and mobile browsers as well as live browser testing on a variety of platforms allowing us to easily diagnose UI bugs and issues brought to our attention. Expect to see us using this more as we get used to the platform and integrate it into all our SPA Developments
 
